@@ -9,7 +9,7 @@ static char *font = "Rec Mono Casual:pixelsize=28:antialias=true:autohint=true";
 static char *font2[] = { 
   "Ubuntu Nerd Font:pixelsize=28:antialias=true:autohint=true", 
   "Noto Sans CJK SC:pixelsize=28:antialias=true:autohint=true", 
-  "Noto Color Emoji:pixelsize=28:antialias=true:autohint=true" 
+  "Twemoji Mozilla:pixelsize=28:antialias=true:autohint=true" 
 };
 static int borderpx = 2;
 
